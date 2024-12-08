@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestCheckResponseAndExtractData",
+  "simulationId": "testcheckresponseandextractdata",
+  "start": 1733644756838,
+  "description": "cvb",
+  "scenarios": ["Get response and extract data"],
+  "assertions": [
+
+  ]
+}

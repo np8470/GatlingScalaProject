@@ -1,0 +1,4 @@
+RUN	simulations.TestCheckResponseAndExtractData	testcheckresponseandextractdata	1733644628645	asss	3.6.1
+USER	Get response and extract data	START	1733644629581
+REQUEST		To get specific users	1733644629602	1733644636682	OK	 
+USER	Get response and extract data	END	1733644636786

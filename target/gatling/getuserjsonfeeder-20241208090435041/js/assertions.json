@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetUserJSONFeeder",
+  "simulationId": "getuserjsonfeeder",
+  "start": 1733648675041,
+  "description": "GetUserJSONFeeder",
+  "scenarios": ["Get User using JSON Feeder test data"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,11 @@
+RUN	simulations.GetUserCSVFeeder	getusercsvfeeder	1733647718785	GetUserCSVFeeder	3.6.1
+USER	Get User using CSV Feeder test data	START	1733647720031
+REQUEST		Get User using CSV Feeder	1733647720130	1733647720146	KO	j.n.UnknownHostException: No such host is known (gorest.co.inpublic-api)
+REQUEST		Get User using CSV Feeder	1733647720181	1733647720181	KO	j.n.UnknownHostException: gorest.co.inpublic-api
+REQUEST		Get User using CSV Feeder	1733647720183	1733647720183	KO	j.n.UnknownHostException: gorest.co.inpublic-api
+REQUEST		Get User using CSV Feeder	1733647720185	1733647720185	KO	j.n.UnknownHostException: gorest.co.inpublic-api
+REQUEST		Get User using CSV Feeder	1733647720187	1733647720187	KO	j.n.UnknownHostException: gorest.co.inpublic-api
+REQUEST		Get User using CSV Feeder	1733647720188	1733647720188	KO	j.n.UnknownHostException: gorest.co.inpublic-api
+REQUEST		Get User using CSV Feeder	1733647720190	1733647720190	KO	j.n.UnknownHostException: gorest.co.inpublic-api
+REQUEST		Get User using CSV Feeder	1733647720193	1733647720193	KO	j.n.UnknownHostException: gorest.co.inpublic-api
+USER	Get User using CSV Feeder test data	END	1733647720198

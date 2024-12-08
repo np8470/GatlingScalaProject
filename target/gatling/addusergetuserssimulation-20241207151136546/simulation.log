@@ -1,0 +1,7 @@
+RUN	simulations.AddUserGetUsersSimulation	addusergetuserssimulation	1733584296546	AddUserGetUsersSimulation	3.6.1
+USER	Add user Post Request	START	1733584297398
+REQUEST		Add User request	1733584297426	1733584298379	OK	 
+REQUEST		Get User request	1733584301406	1733584301471	OK	 
+REQUEST		Get all users request	1733584309967	1733584310074	OK	 
+REQUEST		Get single user not found request	1733584313305	1733584313963	OK	 
+USER	Add user Post Request	END	1733584313969

@@ -1,0 +1,4 @@
+RUN	simulations.CheckResponseAndExtractData	checkresponseandextractdata	1733641994249	test	3.6.1
+USER	Get response and extract data	START	1733641995385
+REQUEST		To Get all Users	1733641995407	1733642017451	OK	 
+USER	Get response and extract data	END	1733642017532

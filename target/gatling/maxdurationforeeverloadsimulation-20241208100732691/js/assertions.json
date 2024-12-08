@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.MaxDurationForeeverLoadSimulation",
+  "simulationId": "maxdurationforeeverloadsimulation",
+  "start": 1733652452691,
+  "description": "MaxDurationForeeverLoadSimulation",
+  "scenarios": ["Fixed duration load simulation"],
+  "assertions": [
+
+  ]
+}

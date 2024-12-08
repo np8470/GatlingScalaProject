@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.UpdateUserSimulation",
+  "simulationId": "updateusersimulation",
+  "start": 1733584735966,
+  "description": "",
+  "scenarios": ["Update User request"],
+  "assertions": [
+
+  ]
+}

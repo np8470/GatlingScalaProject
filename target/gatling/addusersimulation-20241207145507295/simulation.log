@@ -1,0 +1,5 @@
+RUN	simulations.AddUserSimulation	addusersimulation	1733583307295	 	3.6.1
+USER	Add user Post Request	START	1733583308204
+REQUEST		Add User request	1733583308226	1733583309366	OK	 
+REQUEST		Get User request	1733583312395	1733583313052	OK	 
+USER	Add user Post Request	END	1733583313063

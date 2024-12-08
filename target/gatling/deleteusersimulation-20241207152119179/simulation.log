@@ -1,0 +1,4 @@
+RUN	simulations.DeleteUserSimulation	deleteusersimulation	1733584879179	 	3.6.1
+USER	Delete User request	START	1733584880100
+REQUEST		Delete user : DELETE Request	1733584880123	1733584880655	OK	 
+USER	Delete User request	END	1733584880684

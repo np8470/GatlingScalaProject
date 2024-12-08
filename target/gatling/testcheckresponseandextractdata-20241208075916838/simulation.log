@@ -1,0 +1,5 @@
+RUN	simulations.TestCheckResponseAndExtractData	testcheckresponseandextractdata	1733644756838	cvb	3.6.1
+USER	Get response and extract data	START	1733644757818
+REQUEST		To Get all Users	1733644757837	1733644765216	OK	 
+REQUEST		To get specific users	1733644768320	1733644770110	OK	 
+USER	Get response and extract data	END	1733644770119

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.DeleteUserSimulation",
+  "simulationId": "deleteusersimulation",
+  "start": 1733584879179,
+  "description": "",
+  "scenarios": ["Delete User request"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.EndToEndScenario",
+  "simulationId": "endtoendscenario",
+  "start": 1733585311647,
+  "description": "EndToEndScenario",
+  "scenarios": ["End to End scenario for Users API"],
+  "assertions": [
+
+  ]
+}

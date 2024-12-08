@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.AddUserGetUsersSimulation",
+  "simulationId": "addusergetuserssimulation",
+  "start": 1733584296546,
+  "description": "AddUserGetUsersSimulation",
+  "scenarios": ["Add user Post Request"],
+  "assertions": [
+
+  ]
+}

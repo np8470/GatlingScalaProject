@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestCheckResponseAndExtractData",
+  "simulationId": "testcheckresponseandextractdata",
+  "start": 1733644561395,
+  "description": "wqed",
+  "scenarios": ["Get response and extract data"],
+  "assertions": [
+
+  ]
+}

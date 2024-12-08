@@ -1,0 +1,4 @@
+RUN	simulations.TestCheckResponseAndExtractData	testcheckresponseandextractdata	1733644561395	wqed	3.6.1
+USER	Get response and extract data	START	1733644562663
+REQUEST		To get specific users	1733644562705	1733644563738	KO	jsonPath($.data.name).find.is(Chakravartee Ganaka), but actually found Devagya Nambeesan
+USER	Get response and extract data	END	1733644563816

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.LoadSimulation",
+  "simulationId": "loadsimulation",
+  "start": 1733650676069,
+  "description": "LoadSimulation",
+  "scenarios": ["Get User using JSON Feeder test data"],
+  "assertions": [
+
+  ]
+}

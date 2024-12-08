@@ -1,0 +1,3 @@
+RUN	simulations.TestCheckResponseAndExtractData	testcheckresponseandextractdata	1733644515323	teeteee	3.6.1
+REQUEST		To get specific users	1733644516637	1733644516661	KO	j.n.UnknownHostException: No such host is known (gorest.co.inpublic-api)
+USER	Get response and extract data	END	1733644516685

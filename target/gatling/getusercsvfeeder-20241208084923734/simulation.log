@@ -1,0 +1,11 @@
+RUN	simulations.GetUserCSVFeeder	getusercsvfeeder	1733647763734	GetUserCSVFeeder	3.6.1
+USER	Get User using CSV Feeder test data	START	1733647765322
+REQUEST		Get User using CSV Feeder	1733647765560	1733647766294	OK	 
+REQUEST		Get User using CSV Feeder	1733647766364	1733647766730	OK	 
+REQUEST		Get User using CSV Feeder	1733647766733	1733647767129	OK	 
+REQUEST		Get User using CSV Feeder	1733647767132	1733647767481	OK	 
+REQUEST		Get User using CSV Feeder	1733647767485	1733647767839	KO	status.find.is(200), but actually found 304
+REQUEST		Get User using CSV Feeder	1733647767851	1733647768328	KO	status.find.is(200), but actually found 304
+REQUEST		Get User using CSV Feeder	1733647768332	1733647768738	KO	status.find.is(200), but actually found 304
+REQUEST		Get User using CSV Feeder	1733647768741	1733647769151	KO	status.find.is(200), but actually found 304
+USER	Get User using CSV Feeder test data	END	1733647769156

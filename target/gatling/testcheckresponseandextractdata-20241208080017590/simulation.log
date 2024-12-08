@@ -1,0 +1,5 @@
+RUN	simulations.TestCheckResponseAndExtractData	testcheckresponseandextractdata	1733644817590	dfdsfdsf	3.6.1
+USER	Get response and extract data	START	1733644818555
+REQUEST		To Get all Users	1733644818580	1733644819561	OK	 
+REQUEST		To get specific users	1733644822646	1733644823040	OK	 
+USER	Get response and extract data	END	1733644823053
