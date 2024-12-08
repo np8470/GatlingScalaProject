@@ -1,0 +1,72 @@
+[
+  {
+    "id": 7572100,
+    "name": "Devagya Nambeesan",
+    "email": "devagya_nambeesan@prohaska.test",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "id": 7572098,
+    "name": "Darshwana Kapoor DO",
+    "email": "do_darshwana_kapoor@flatley.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 7572097,
+    "name": "Dhara Gill",
+    "email": "dhara_gill@kris.example",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 7572095,
+    "name": "Jyoti Nehru",
+    "email": "jyoti_nehru@blanda.example",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 7572094,
+    "name": "Bala Ganaka Ret.",
+    "email": "ganaka_bala_ret@steuber.test",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 7572093,
+    "name": "Fr. Rita Chattopadhyay",
+    "email": "fr_chattopadhyay_rita@paucek.example",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 7572092,
+    "name": "Jaimini Varrier",
+    "email": "varrier_jaimini@rutherford.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 7572091,
+    "name": "Anasooya Prajapat",
+    "email": "anasooya_prajapat@klein.test",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 7572090,
+    "name": "Triloki Achari JD",
+    "email": "triloki_achari_jd@schmeler-sporer.test",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 7572089,
+    "name": "Bhoj Khan",
+    "email": "khan_bhoj@sauer-lemke.test",
+    "gender": "male",
+    "status": "active"
+  }
+]
